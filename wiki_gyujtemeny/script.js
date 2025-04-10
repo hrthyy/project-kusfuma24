@@ -1,4 +1,4 @@
-const last_upd = "2025.01.01."
+const last_upd = "2025.04.10."
 
 const LINKEK = [
     "https://hu.wikipedia.org/wiki/Sonk%C3%A1sszendvicst%C3%A9tel",
@@ -28,6 +28,8 @@ const LINKEK = [
     "https://hu.wikipedia.org/wiki/Myrmotherula_longipennis",
     "https://hu.wikipedia.org/wiki/Sz%C3%A1znapos_toj%C3%A1s",
     "https://hu.wikipedia.org/wiki/Cukr%C3%A1szdah%C3%A1bor%C3%BA",
+    "https://hu.wikipedia.org/wiki/Nyolckir%C3%A1lyn%C5%91-probl%C3%A9ma",
+    "https://hu.wikipedia.org/wiki/Herny%C3%B3gr%C3%A1f",
 
 ]
 const SZOVEG = [
@@ -58,6 +60,8 @@ const SZOVEG = [
     "Myrmotherula longipennis",
     "Száznapos tojás",
     "Cukrászdaháború",
+    "Nyolckirálynő-probléma",
+    "Hernyógráf"
 ]
 
 function load_text() {
